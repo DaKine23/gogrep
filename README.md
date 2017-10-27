@@ -9,7 +9,7 @@ It is written for go but not in go.
 $ git clone https://github.com/DaKine23/gogrep.git
 $ cd gogrep
 $ sudo chmod 555 gogrep.sh
-$ sudo ln -s $(pwd)/gogrep.sh /usr/bin/gogrepq
+$ sudo ln -s $(pwd)/gogrep.sh /usr/bin/gogrep
 ```
 
 ## usage

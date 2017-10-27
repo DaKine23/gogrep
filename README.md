@@ -23,7 +23,9 @@ $ gogrep "foo"
 $ gogrep "bar" "*.json"
 ```
 
-Doing so in the VS Code terminal, will allow you to open a file with cursor at the position of the finding.
+Doing so in the VS Code terminal, will allow you to open a file with cursor at the position of the finding.(**ctrl + click**)
+
+
 
 *example output :*
 
